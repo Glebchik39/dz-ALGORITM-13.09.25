@@ -55,6 +55,8 @@ int main()
 	//	sum++;
 	//}
 	//cout << "Sum : " << sum;
+
+	//3.
 	setlocale(LC_ALL, "Russian");
 	int premia[12];
 	int min;
